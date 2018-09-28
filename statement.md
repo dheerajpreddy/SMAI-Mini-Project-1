@@ -30,12 +30,6 @@ mini-project.
   vs the number of principal components used to reconstruct. Include
   this plot in your submission. (Use a reasonable range for number of components)
 
-- Decide $N$, the number of principal components required such that the
-  reconstructed images will have mean squared error less than 20% over
-  all train images. Display those $N$ principal components as
-  reconstructed images.  You will see some base structures of the
-  faces. Include these images in your report.
-
 - Use scatterplots to examine how the images are clustered in the 1D, 2D
   and 3D space using the required number of principal components.
 
@@ -103,7 +97,7 @@ mini-project.
   - `linear_classifier.py`
 - Put these files in a folder, name it as your roll number, zip it, upload it.
   Thus `<roll_number>.zip` will have directory `<roll_number>` directory containing
-  3 files. 
+  3 files.
 - You can use only `numpy` and `PIL`, no other libraries.
 - Don't include any other file in your submission. Don't import from any other file.
 - Don't  access any other file from your code. Don't save anything by your code.
