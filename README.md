@@ -1,6 +1,6 @@
 # Resources
 
-1. PCA on images - https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/
+1. PCA on images - https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/, https://glowingpython.blogspot.com/2011/07/pca-and-image-compression-with-numpy.html
 
 2. Naive Bayes - https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
 
